@@ -40,6 +40,7 @@ I am an enthusiast of Web and Mobile development technologies.
   </a>
   <br/>
   </div>
+  <br />
 
   
 <div>
