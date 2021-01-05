@@ -29,7 +29,7 @@ I am an enthusiast of Web and Mobile development technologies.
 
   The entire proccess of creation of this app was done within a week. It was a very challenging experience that allowed us to learn how to work together as a team, manage our time in order to focus on the most important points and think outside of the box.
 
-  ## My Contacts :iphone:
+  ## Contact me :iphone:
   <div align="center">
   <a href="https://www.linkedin.com/in/ladeira1/">
     <img align="left" alt="João's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -42,6 +42,8 @@ I am an enthusiast of Web and Mobile development technologies.
   </div>
 
   <br />
+  
+  ## Github Status
   
 <div align="center">
 <img alt="Joao's github stats" height="210" src="https://github-readme-stats.vercel.app/api?username=ladeira1&theme=omni&show_icons=true&hide_border=true" />
