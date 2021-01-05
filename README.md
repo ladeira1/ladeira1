@@ -36,7 +36,7 @@ I am an enthusiast of Web and Mobile development technologies.
   </a>
 
   <a href="mailto:joaoladeirag@gmail.com">
-    <img align="left" alt="João's Gmail" height="25px" color="#6441a4" src="https://img.shields.io/badge/-joaoladeirag@gmail.com-263238?style=flat-square&labelColor=263238&logo=gmail&logoColor=white&link=mailto:joaoladeirag@gmail.com" />
+    <img align="left" alt="João's Gmail" height="25px" src="https://img.shields.io/badge/-joaoladeirag@gmail.com-263238?style=flat-square&labelColor=6441a4&logo=gmail&logoColor=white&link=mailto:joaoladeirag@gmail.com" />
   </a>
   <br/>
   </div>
