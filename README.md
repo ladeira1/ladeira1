@@ -1,5 +1,5 @@
 # Hi :wave:
-## My name is João Ladeira, and I welcome you to my GitHub!
+# My name is João Ladeira, and I welcome you to my GitHub!
 
 I am an enthusiast of Web and Mobile development technologies.
 
