@@ -43,7 +43,7 @@ I am an enthusiast of Web and Mobile development technologies.
   <br />
 
   
-<div>
+<div align="center">
 <img alt="Joao's github stats" height="210" src="https://github-readme-stats.vercel.app/api?username=ladeira1&theme=omni&show_icons=true&hide_border=true" />
 
 <img alt="Joao's github stats" height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladeira1&theme=omni&hide_border=true" />
