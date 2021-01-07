@@ -1,7 +1,7 @@
 # Hi :wave:
-## My name is João Ladeira, and I welcome you to my GitHub!
+## My name is João, and I welcome you to my GitHub!
 
-I am an enthusiast of Web and Mobile development technologies.
+I am an enthusiast of Web and Mobile development technologies who's addicted to Dark Theme.
 
 - I'm currently working on [Tavern](https://github.com/ladeira1/tavern), a website of a Burger Store;
 - I'm currently learning [React](https://reactjs.org/) and [Typescript](https://www.typescriptlang.org/).
