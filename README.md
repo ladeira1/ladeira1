@@ -1,5 +1,4 @@
-# Hi :wave:
-## My name is João, and I welcome you to my GitHub!
+# Hi, my name is João, and I welcome you to my GitHub! :wave:
 
 I am an enthusiast of Web and Mobile development technologies who's addicted to Dark Theme.
 
@@ -13,7 +12,9 @@ I am an enthusiast of Web and Mobile development technologies who's addicted to 
   During the creation of this project, I've learnt a lot about:
   - How to apply the benefits of [Typescript](https://www.typescriptlang.org/) on my code;
   - Routing using [React-Route-Dom](https://reactrouter.com/web/guides/quick-start); 
-  - Using [Framer-Motion](https://www.framer.com/motion/) to animate my website.
+  - Using [Framer-Motion](https://www.framer.com/motion/) to animate my website;
+  - Linting my code through [ESLint](https://eslint.org/);
+  - Handling multiple contexts with React's [Context API](https://reactjs.org/docs/context.html).
 
   ### Poipo :speech_balloon:
   [Poipo](https://github.com/ladeira1/poipo) is a small social media I've created using React-Native.
