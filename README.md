@@ -13,7 +13,7 @@ I am an enthusiast of Web and Mobile development technologies who's addicted to 
   - How to apply the benefits of [Typescript](https://www.typescriptlang.org/) on my code;
   - Routing using [React-Route-Dom](https://reactrouter.com/web/guides/quick-start); 
   - Using [Framer-Motion](https://www.framer.com/motion/) to animate my website;
-  - Linting my code through [ESLint](https://eslint.org/);
+  - Linting my code with [ESLint](https://eslint.org/);
   - Handling multiple contexts with React's [Context API](https://reactjs.org/docs/context.html).
 
   ### Poipo :speech_balloon:
