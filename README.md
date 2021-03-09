@@ -1,4 +1,4 @@
-# Hi, my name is João and you are welcome to my GitHub! :wave:
+# Hi, my name is João and welcome to my GitHub! :wave:
 
 I am an enthusiast of Web and Mobile development technologies who's addicted to Dark Theme.
 
