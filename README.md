@@ -1,4 +1,4 @@
-# Hi, my name is João, and I welcome you to my GitHub! :wave:
+# Hi, my name is João and you are welcome to my GitHub! :wave:
 
 I am an enthusiast of Web and Mobile development technologies who's addicted to Dark Theme.
 
@@ -28,7 +28,7 @@ I am an enthusiast of Web and Mobile development technologies who's addicted to 
   ### Órama Investimentos App :moneybag:
   [Órama Investimentos App](https://github.com/mcosta21/megahack-orama-mobile) was built for the Órama Challenge during the [Mega Hack #5](https://www.megahack.com.br/) with my friends [Marcio Costa](https://github.com/mcosta21), [Thiago Goulart](https://github.com/thiagogoulart95) and [Adriel Medeiros](https://github.com/Adriel2105).
 
-  The entire proccess of creation of this app was done within a week. It was a very challenging experience that allowed us to learn how to work together as a team, manage our time in order to focus on the most important points and think outside of the box.
+  The entire process of creating this app was done within a week. It was a very challenging experience that allowed us to learn how to work together as a team, manage our time in order to focus on the most important points and think outside of the box.
 
   ## Contact me :iphone:
   <div align="center">
