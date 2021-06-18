@@ -26,7 +26,7 @@ I am an enthusiast of Web and Mobile development technologies who's addicted to 
   - Working with images by using [React-Native-Image-Picker](https://github.com/react-native-image-picker/react-native-image-picker).
 
   ### Órama Investimentos App :moneybag:
-  [Órama Investimentos App](https://github.com/mcosta21/megahack-orama-mobile) was built for the Órama Challenge during the [Mega Hack #5](https://www.megahack.com.br/) with my friends [Marcio Costa](https://github.com/mcosta21), [Thiago Goulart](https://github.com/thiagogoulart95) and [Adriel Medeiros](https://github.com/Adriel2105).
+  [Órama Investimentos App](https://github.com/mcosta21/megahack-orama-mobile) was built for the Órama Challenge during the [Mega Hack #5](https://www.megahack.com.br/) with my friends [Marcio Costa](https://github.com/mcosta21), [Thiago Goulart](https://github.com/thiagogoulart95) and [Adriel Medeiros](https://github.com/medriel).
 
   The entire process of creating this app was done within a week. It was a very challenging experience that allowed us to learn how to work together as a team, manage our time in order to focus on the most important points and think outside of the box.
 
