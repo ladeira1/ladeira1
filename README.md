@@ -1,34 +1,10 @@
 # Hi, my name is João and welcome to my GitHub! :wave:
 
-I am an enthusiast of Web and Mobile development technologies who's addicted to Dark Theme.
+I am React Native / ReactJS Developer at [Mobix Software Studio](https://www.mobixtec.com/).
+I also work with Typescript, Redux and Detox.
 
 - I'm currently working on [Tavern](https://github.com/ladeira1/tavern), a website of a Burger Store;
 - I'm currently learning [React](https://reactjs.org/) and [Typescript](https://www.typescriptlang.org/).
-
-## Most Important Projects :bookmark:
-### Tavern :hamburger:
-  [Tavern](https://github.com/ladeira1/tavern) is a website created using ReactJS and Typescript of a Burger Store. 
-  
-  During the creation of this project, I've learnt a lot about:
-  - How to apply the benefits of [Typescript](https://www.typescriptlang.org/) on my code;
-  - Routing using [React-Route-Dom](https://reactrouter.com/web/guides/quick-start); 
-  - Using [Framer-Motion](https://www.framer.com/motion/) to animate my website;
-  - Linting my code with [ESLint](https://eslint.org/);
-  - Handling multiple contexts with React's [Context API](https://reactjs.org/docs/context.html).
-
-  ### Poipo :speech_balloon:
-  [Poipo](https://github.com/ladeira1/poipo) is a small social media I've created using React-Native.
-
-  Through the creation of this project, I have acquired knowledge about: 
-  - Hybrid Mobile Development using [React-Native](https://reactnative.dev/);
-  - Applying logic to my CSS with [Styled-Components](https://styled-components.com/); 
-  - Saving data locally throught [Async-Storage](https://reactnative.dev/docs/asyncstorage); 
-  - Working with images by using [React-Native-Image-Picker](https://github.com/react-native-image-picker/react-native-image-picker).
-
-  ### Órama Investimentos App :moneybag:
-  [Órama Investimentos App](https://github.com/mcosta21/megahack-orama-mobile) was built for the Órama Challenge during the [Mega Hack #5](https://www.megahack.com.br/) with my friends [Marcio Costa](https://github.com/mcosta21), [Thiago Goulart](https://github.com/thiagogoulart95) and [Adriel Medeiros](https://github.com/medriel).
-
-  The entire process of creating this app was done within a week. It was a very challenging experience that allowed us to learn how to work together as a team, manage our time in order to focus on the most important points and think outside of the box.
 
   ## Contact me :iphone:
   <div align="center">
