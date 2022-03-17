@@ -1,10 +1,7 @@
 # Hi, my name is João and welcome to my GitHub! :wave:
 
-I am React Native / ReactJS Developer at [Mobix Software Studio](https://www.mobixtec.com/).
+I am React Native / ReactJS Developer at [Mobix Software Studio](https://www.mobixtec.com/). <br />
 I also work with Typescript, Redux and Detox.
-
-- I'm currently working on [Tavern](https://github.com/ladeira1/tavern), a website of a Burger Store;
-- I'm currently learning [React](https://reactjs.org/) and [Typescript](https://www.typescriptlang.org/).
 
   ## Contact me :iphone:
   <div align="center">
