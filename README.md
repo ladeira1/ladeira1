@@ -1,4 +1,4 @@
-# Hi, my name is João and welcome to my GitHub! :wave:
+# Hey there! :wave:
 
 I am React Native / ReactJS Developer at [Mobix Software Studio](https://www.mobixtec.com/). <br />
 I also work with Typescript, Redux, React Query, Jest and Detox.
