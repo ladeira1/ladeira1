@@ -1,6 +1,6 @@
 # Hey there! :wave:
 
-I am React Native / ReactJS Developer at [Mobix Software Studio](https://www.mobixtec.com/). <br />
+I am a React Native / ReactJS Developer at [Mobix Software Studio](https://www.mobixtec.com/). <br />
 I also work with Typescript, Redux, React Query, Jest and Detox.
 
   ## Contact me :iphone:
