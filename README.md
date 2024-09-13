@@ -1,6 +1,6 @@
 # Hey there! :wave:
 
-I am a ReactJS / React Native Developer at [Mobix Software Studio](https://www.mobixtec.com/). <br />
+I am a ReactJS / React Native Developer at Quave. <br />
 I also work with Node,js, Typescript, Redux, React Query, Jest and Detox.
 
   ## Contact me :iphone:
